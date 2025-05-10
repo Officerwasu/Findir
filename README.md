@@ -9,5 +9,5 @@ requests
 
 ``./findir.py [url] [wordlist] ``
 
-## Or
+#### Or
 ``python3 findir.py [url] [wordlist]``
